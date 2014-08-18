@@ -1,2 +1,2 @@
-rahulgopan.github.io
+GitHub Page
 ====================
